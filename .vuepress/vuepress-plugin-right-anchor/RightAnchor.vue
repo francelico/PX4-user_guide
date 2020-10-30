@@ -158,6 +158,7 @@ $pageMenuTextColor = white;
   margin: 0;
   top: $navbarHeight;
   max-height: 75vh;
+  max-width: 60%;
   right: 0;
   overflow-y: auto;
   
